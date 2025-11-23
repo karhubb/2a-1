@@ -1,2 +1,2 @@
-# 2a-1
+# 2a
 A new repository for project 2a (again and again)
